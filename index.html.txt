@@ -1,0 +1,16 @@
+<HTML>
+
+<HEAD>
+<TITLE>My Homepage</TITLE>
+</HEAD>
+<BODY>
+<H1>My Homepage</H1>
+<P>
+This is my homepage. 
+Is it not nifty? 
+I'm in the 
+
+<A HREF="http://www.ecs.soton.ac.uk/">ECS Department</A>.
+</P>
+</BODY>
+</HTML>
